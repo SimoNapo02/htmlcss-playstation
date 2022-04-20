@@ -1,0 +1,21 @@
+/* Button */
+.btn_{
+    padding: .300rem 1rem;
+    border-radius: 1rem;
+ }
+ .btn-acc{
+    color: white;
+    background-color: black;
+ }
+
+/* Header */
+.header-top{
+    background-color: black;
+    padding: 1rem;
+ }
+ .logo-top{
+    width: 110px;
+ }
+ .header-{
+    background-color: white;
+ }
