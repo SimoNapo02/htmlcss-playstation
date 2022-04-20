@@ -19,3 +19,27 @@
  .header-{
     background-color: white;
  }
+ /* Hero */
+ .jumbo{
+   position: relative;
+}
+.jumbo-img{
+   width: 100%;
+   min-height: 50vh;
+   object-position: center;
+   object-fit: cover;
+}
+
+.info-jumbo{
+   position: absolute;
+   z-index: 1;
+   left: 0;
+   bottom: 0;
+   right: 0;
+   padding: 3rem 1rem;
+}
+
+.info-img{
+   width: 200px;
+   margin-bottom: 1rem;
+}
