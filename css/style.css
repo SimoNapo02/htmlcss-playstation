@@ -1,12 +1,24 @@
 /* Button */
 .btn_{
-    padding: .300rem 1rem;
-    border-radius: 1rem;
- }
- .btn-acc{
-    color: white;
-    background-color: black;
- }
+   padding: .300rem 1rem;
+   border-radius: 1rem;
+}
+.btn-acc{
+   color: white;
+   background-color: black;
+}
+.btn-acq{
+   background-color: #CD3D0F;
+   color: white;
+}
+.btn_plus{
+   background-color: #D9DADC;
+   color: #1B80D3;
+}
+.btn_now{
+   background-color: whitesmoke;
+   color: black;
+}
 
 /* Header */
 .header-top{
@@ -54,3 +66,4 @@
    border: 1px solid blue;
    padding: 4px 4px;
 }
+/* prodotti */
