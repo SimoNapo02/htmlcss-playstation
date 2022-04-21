@@ -82,7 +82,12 @@ margin-left: 7px;
 .ps-plus{
    background-color: rgb(186, 186, 186);
 }
-
+.ps-plus-img{
+   width: 600px;
+}
+.ps-plus-log{
+   width: 350px;
+}
 /* ps store */
 .store-img{
    width: 400px;
