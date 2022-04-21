@@ -105,3 +105,24 @@ margin-left: 7px;
 width: 200px;
 height: 150px;
 }
+/* FOOTER */
+footer{
+   background-color: rgb(31, 31, 142);
+   padding-top: 50px;
+}
+footer a{
+   color: white;
+}
+footer ul {
+   list-style: none;
+   padding: 0;
+   line-height: 30px;
+}
+.lng-globe{
+   width: 15px;
+   height: 15px;
+}
+.ps-footer{
+   width: 100px;
+   margin-bottom: 30px;
+}
