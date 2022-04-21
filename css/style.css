@@ -40,6 +40,10 @@ header{
  .header-btm{
     background-color: white;
  }
+ /* Main */
+ main{
+   padding-top: 110px;
+}
  /* Hero */
  .jumbo{
    position: relative;
@@ -95,4 +99,9 @@ margin-left: 7px;
 /* ps now */
 .ps-now{
    background-color: rgb(10, 10, 81);
+}
+/* social */
+.social-img{
+width: 200px;
+height: 150px;
 }
