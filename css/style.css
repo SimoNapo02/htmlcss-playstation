@@ -55,6 +55,13 @@
    width: 200px;
    margin-bottom: 1rem;
 }
+.hero2{
+   background-color: rgb(56, 56, 56);
+}
+.hero2 h6{
+color: white;
+margin-left: 7px;
+}
 
 /* game list */
 .game{
