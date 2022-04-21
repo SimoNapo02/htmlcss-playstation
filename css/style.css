@@ -69,11 +69,7 @@ margin-left: 7px;
    padding: 0.5rem;
 }
 
-
-/* prodotti */
-/* .ps4 h6{
-   margin-top: 20px;
-   margin-bottom: 20px;
-   line-height: 20px;
-   color: gray;
-} */
+/* ps plus */
+.ps-plus-img{
+   width: 300px;
+}
